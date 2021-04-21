@@ -1,3 +1,4 @@
+%%%% RENAME from mini_project.m to (your_project_short_name).m
 % Comments describing mini-project ~ 100-200 words
 
 % Simulation parameters
