@@ -1,6 +1,6 @@
-#### RENAME from mini_project.py to (your_project_short_name).py
+#### RENAME from project.py to (your_project_short_name).py
 # File structure
-# 1. Commented paragraph describing mini-project ~ 100-200 words
+# 1. Commented paragraph describing project ~ 100-200 words
 # 2. Module imports that are used in multiple functions
 # 3. Function definitions
 # 4. if __name__ == "__main__" block, which calls a primary function with a clear name 
